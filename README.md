@@ -23,7 +23,7 @@ end
 ### Data
 This repo contains 3 files:
 - **`entity_names_example.txt`**: In this file you find 3 entities to test your algorithm. They are manually selected and should be easy to scrape.
-- **`entity_names_example_SOLUTION.txt`**: here you will find the emails your scraper should find for all 3 examples. You can use this to check if your scraper works.
+- **`entity_names_example_SOLUTION.json`**: here you will find the emails your scraper should find for all 3 examples. You can use this to check if your scraper works.
 - **`entity_names_real.txt`**: This is real data we used for this scraping task. Our hitrate for these entities is around 30-40%. You don't need to run it, but if you are curious and have a working algorithm you can totally run your script with this real data and send the results, would be interesting to discuss the differences. 
 
 ### Rules
